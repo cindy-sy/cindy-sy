@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cindy-sy
+- 👋 Hi, I’m Swara Wairkar
 - 👀 I’m interested in fashion
-- 🌱 I’m currently learning comp-sci
+- 🌱 I’m currently persuing comp-sci
 - 💞️ I’m looking forward to collaborate.
 
 <!---
